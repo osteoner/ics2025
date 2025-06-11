@@ -1,6 +1,6 @@
 # 🧠 Community Detection via LLM Embeddings
 
-This script performs **community detection** by leveraging **large language model (LLM) embeddings**. It extracts user content stored in a PostgreSQL database. And then uses clustering techniques (HDBSCAN) to identify hidden communities based on semantic similarity across user sequence representations.
+This script performs **community detection** by leveraging **large language model (LLM) embeddings**. It extracts user content stored in a PostgreSQL database, and then uses clustering techniques (HDBSCAN) to identify hidden communities based on semantic similarity across user sequence representations.
 
 ---
 
